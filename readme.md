@@ -1,4 +1,4 @@
-  Module Generator for CodeIgniter 3.1.13 body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px; } h1, h2, h3 { color: #333; } pre { background: #f4f4f4; padding: 10px; border: 1px solid #ddd; }
+
 
 Module Generator for CodeIgniter 3.1.13
 =======================================
