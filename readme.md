@@ -62,7 +62,7 @@ How to Use
 
 ### Get Data Using API
 
-    http://localhost/tulsiram_work/MG-CI-3.1.13/API/get?key=8ad677-0516f1-3c9709-18d6a6-64323c&module_slug=slider
+    https://pro.intactautomation.com/module-generator/MG-CI-3.1.13/API/get?key=8ad677-0516f1-3c9709-18d6a6-64323c&module_slug=slider
 
 User Guide and Demo
 -------------------
