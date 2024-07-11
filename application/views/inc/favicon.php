@@ -1,0 +1,1 @@
+<link rel="shortcut icon" href="<?php echo base_url('assets/theme/dist/img'); ?>/my-pic.ico">

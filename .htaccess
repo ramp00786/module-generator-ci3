@@ -1,0 +1,15 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine on  
+  # Rewrite URLs of the form 'x' to the form 'index.php?q=x'.
+  
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_URI} !=/favicon.ico
+  RewriteRule ^(.*)$ index.php?/$1 [L,QSA]
+
+  	php_value upload_max_filesize 40M
+	php_value post_max_size 40M
+	php_value memory_limit 60M
+
+
+</IfModule>
